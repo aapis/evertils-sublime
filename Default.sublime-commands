@@ -1,0 +1,12 @@
+[
+    {   "caption": "Evertils: Generate Daily Log",
+        "command": "evertils_generate_daily"
+    },
+    {   "caption": "Evertils: Generate Weekly Log",
+        "command": "evertils_generate_weekly"
+    },
+    {   "caption": "Evertils: Generate Monthly Log",
+        "command": "evertils_generate_monthly"
+    },
+
+]

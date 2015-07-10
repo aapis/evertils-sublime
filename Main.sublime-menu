@@ -1,0 +1,28 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Evertils",
+                "mnemonic": "G",
+                "id": "evertils",
+                "children":
+                    [
+                        { "caption": "Generate", "children": [
+                            { "command": "evertils_generate_daily", "caption": "Daily" },
+                            { "command": "evertils_generate_daily", "caption": "Weekly" },
+                            { "command": "evertils_generate_daily", "caption": "Monthly" }
+                        ]},
+                        { "caption": "New", "children": [
+                            { "command": "evertils_new_note", "caption": "Note" },
+                            { "command": "evertils_new_share_note", "caption": "Note (Shared)" }
+                        ]},
+                        { "caption": "Convert", "children": [
+                            { "command": "evertils_convert_to_markdown", "caption": "To Markdown" }
+                        ] }
+                    ]
+            }
+        ]
+    }
+]
