@@ -11,8 +11,8 @@
                     [
                         { "caption": "Generate", "children": [
                             { "command": "evertils_generate_daily", "caption": "Daily" },
-                            { "command": "evertils_generate_daily", "caption": "Weekly" },
-                            { "command": "evertils_generate_daily", "caption": "Monthly" }
+                            { "command": "evertils_generate_weekly", "caption": "Weekly" },
+                            { "command": "evertils_generate_monthly", "caption": "Monthly" }
                         ]},
                         { "caption": "New", "children": [
                             { "command": "evertils_new_note", "caption": "Note" },
